@@ -1,5 +1,6 @@
 # usesynth
 
+Features and process to use.
 - Blog URLis input for this bot.
 - Bot will scrape the content part and show user on sreen.
 - It is downloadable as well in PDF form.
@@ -21,5 +22,6 @@ pnpm run serve
 ```
 Add Supabase url and key in main.py
 ```
-```uvicorn main:app --reload
+```
+uvicorn main:app --reload
 ```
